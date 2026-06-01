@@ -30,7 +30,7 @@ part1_model_development/
 | --------------------- | --------------------------------------- |
 | README.md             | Project documentation                   |
 | fine_tuning_script.py | Fine-tunes DistilBERT on SST-2          |
-| model_metrics.ipynb   | Evaluates model performance and metrics |
+| model_metrics.md      | Evaluates model performance and metrics |
 
 ---
 
@@ -319,3 +319,5 @@ Possible improvements include:
 
 This project demonstrates the successful fine-tuning and evaluation of a DistilBERT model for sentiment analysis. The model achieves over 91% accuracy on the SST-2 validation dataset while maintaining a lightweight architecture suitable for practical deployment. The implementation highlights modern NLP techniques, transfer learning, and transformer-based text classification workflows.
 
+## Author
+Nihal Hassan
